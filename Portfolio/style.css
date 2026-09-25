@@ -1,0 +1,71 @@
+
+/* General page styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #100000;
+    color: white;
+    text-align: center;
+}
+
+/* Header */
+header {
+    padding: 50px 20px;
+    background-color: #250000;
+}
+
+header h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+/* Navigation bar */
+nav {
+    padding: 20px;
+    background-color: #400000;
+}
+
+/* Navigation links */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+/* Main content */
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+main h2 {
+    font-size: 32px;
+}
+
+/* Buttons */
+.button {
+    display: inline-block;
+    background-color: #e63946;
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+    margin-top: 20px;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+/* Button hover effect */
+.button:hover {
+    background-color: #ff6b6b;
+}
+
+/* Project cards */
+.project-card {
+    background-color: #250000;
+    border: 1px solid #663333;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 20px 0;
+}
