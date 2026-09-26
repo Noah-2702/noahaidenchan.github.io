@@ -5,7 +5,6 @@ title: Home
 
 <h1 style="text-align: center;"> Noah Chan</h1>
 <img src="Photos/IMG_1378.JPG" alt="picture of me" class="center-image">
-
 <h2>About</h2>
 <p> I am an Chindo (Half Chinese, half Indonesian) sophmore in highschool, currently attending the #2 public highschool in California, Whitney Gretchen Highschool.</p>
 <p>Some things about me are:</p>
