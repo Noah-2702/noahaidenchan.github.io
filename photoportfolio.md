@@ -5,7 +5,9 @@ permalink: /photoportfolio/
 ---
 
 <h3 style="text-align: center;"> Through Japan </h3>
-<img src="Photos/IMG_0054.jpg" alt="Through Japan" class="center-image">
+<img src="{{ site.baseurl }}/Photos/IMG_0054.jpg"
+     alt="Through Japan"
+     class="center-image">
 <h3 style="text-align: center;"> A View from a Window </h3>
 <img src="Photos/IMG_0051.jpg" alt="A View from a Window" class="center-image">
 <h3 style="text-align: center;"> A Winter Sunset </h3>
