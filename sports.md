@@ -4,8 +4,6 @@ title: Sports
 permalink: /sports/
 ---
 
-<h1> Sports </h1>
-
 <h2> Swim </h2>
 <a href="https://www.swimcloud.com/swimmer/1914253/"> - Swimcloud </a> 
 
