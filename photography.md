@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Photography
-permalink: /photography/
+title: Photo Portfolio
+permalink: /photoportfolio/
 ---
-<h2>Photo Portfolio</h2>
+
 <h3 style="text-align: center;"> Through Japan </h3>
-![Through Japan]({{ site.baseurl }}Photos/IMG_0054.jpg)
+![Through Japan](/Photos/IMG_0054.jpg)
 <h3 style="text-align: center;"> A View from a Window </h3>
 <img src="Photos/IMG_0051.jpg" alt="A View from a Window" class="center-image">
 <h3 style="text-align: center;"> A Winter Sunset </h3>
