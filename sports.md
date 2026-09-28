@@ -14,7 +14,7 @@ permalink: /sports/
 
 <h2> Cross Country</h2>
 
-<img src="Photos/IMG_7765.jpg" alt="cross buddies" class="resized">
+<img src="Photos/IMG_7765.jpg" alt="cross buddies">
 <p class="bigger-text"> I am currently part of the WHS Varsity/Varsity Alternate team! This is my first year of cross country, and so far, it's been great!
 Cant wait for the upcoming years.</p>
 <a href="https://www.athletic.net/athlete/33026949/cross-country/all"> - Athletics </a>
