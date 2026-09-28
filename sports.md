@@ -1,3 +1,9 @@
+---
+layout: page
+title: Sports
+permalink: /sports/
+---
+
 <h1> Sports </h1>
 
 <h2> Swim </h2>
