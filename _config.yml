@@ -7,5 +7,5 @@ remote_theme: poole/lanyon
 #Sidebar
 sidebar_links:
   Home: /
-  About: /about/
-  Projects: /projects/
+  Sports: /sports/
+  Photography: /photography/
